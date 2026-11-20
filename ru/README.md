@@ -14,7 +14,7 @@
 
 ## Последний прогон
 
-**Синтакс, прогон 19.11.2026** — [страница прогона](releases/2026-11-19-syntax/README.md) · [страница с графиками](https://yofelis.github.io/agent-persona-bench/ru/releases/2026-11-19-syntax/index.html).
+**Синтакс, прогон 19.11.2026** — [страница прогона](releases/2026-11-19-syntax/README.md) · [страница с графиками](https://yofelis.github.io/agent-persona-bench/ru/releases/2026-11-19-syntax/charts.html).
 
 ![Балл и цена](releases/2026-11-19-syntax/img/cost.png)
 

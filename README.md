@@ -14,7 +14,7 @@ A measurement like this only makes sense when the model has to work with a very 
 
 ## Latest run
 
-**Syntax, run 2026-11-19** — [run page](releases/2026-11-19-syntax/README.md) · [interactive charts](https://yofelis.github.io/agent-persona-bench/releases/2026-11-19-syntax/index.html).
+**Syntax, run 2026-11-19** — [run page](releases/2026-11-19-syntax/README.md) · [interactive charts](https://yofelis.github.io/agent-persona-bench/releases/2026-11-19-syntax/charts.html).
 
 ![Score and cost](releases/2026-11-19-syntax/img/cost.png)
 

@@ -2,7 +2,7 @@
 
 [Русский](../../ru/releases/2026-11-19-syntax/README.md)
 
-*Updated: 2026-11-20* · [← Syntax](../../personas/syntax.md) · [← contents](../../README.md) · [interactive charts](https://yofelis.github.io/agent-persona-bench/releases/2026-11-19-syntax/index.html)
+*Updated: 2026-11-20* · [← Syntax](../../personas/syntax.md) · [← contents](../../README.md) · [interactive charts](https://yofelis.github.io/agent-persona-bench/releases/2026-11-19-syntax/charts.html)
 
 An agent persona is an AI agent with a standing instruction that sets its role and working rules. Here it is Syntax, an AI engineer that builds games, bots and servers; its standing instruction comes with skills — separate instructions for particular tasks that the model loads when needed — and subagents: other agents it hands part of the work to. The run has six sessions: four models, two of them at two reasoning-effort levels (reasoning effort is a launch setting: how much the model may reason before answering). Each session gets the same three requests. Two judge models, not knowing whose session it is, scored whether the model works in the role of the persona or just carries out the request; next to that is what it cost. These are the author's observations, by unpublished criteria, on a persona of his own.
 
@@ -59,7 +59,7 @@ The score runs from 0 to 100 on unpublished criteria, with each request weighted
 
 ![Cost breakdown](img/cost-parts.png)
 
-On the [interactive page](https://yofelis.github.io/agent-persona-bench/releases/2026-11-19-syntax/index.html), you can sort the numeric columns and hover over a score to see the judges’ range, and choose an external benchmark from the dropdown.
+On the [interactive page](https://yofelis.github.io/agent-persona-bench/releases/2026-11-19-syntax/charts.html), you can sort the numeric columns and hover over a score to see the judges’ range, and choose an external benchmark from the dropdown.
 
 ## What the benchmark found
 
