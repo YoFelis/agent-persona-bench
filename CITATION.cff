@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use results of this benchmark, please cite it as below."
+title: "Agent Persona Bench"
+authors:
+  - name: "Konstantin"
+date-released: "2026-11-20"
+license: CC-BY-4.0
+repository-code: "https://github.com/YoFelis/agent-persona-bench"
+url: "https://yofelis.github.io/agent-persona-bench/"

@@ -1,0 +1,12 @@
+{
+  "table.png": "Model results",
+  "cost.png": "Score and cost",
+  "time.png": "Score and time",
+  "lab-_index.png": "Lab vs. us — AA Intelligence Index",
+  "lab-briefcase.png": "Lab vs. us — Briefcase, Elo",
+  "lab-omni_net.png": "Lab vs. us — Omniscience net",
+  "lab-automation.png": "Lab vs. us — AutomationBench, %",
+  "lab-webdev.png": "Lab vs. us — Arena WebDev, rating",
+  "cost-parts.png": "Cost breakdown",
+  "arch.png": "How persona architectures differ"
+}
